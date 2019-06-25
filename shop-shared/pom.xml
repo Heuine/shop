@@ -5,8 +5,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sk.sample</groupId>
-	<artifactId>mall-shared</artifactId>
-	<name>mall-shared</name>
+	<artifactId>shop-shared</artifactId>
+	<name>shop-shared</name>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<parent>

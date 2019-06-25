@@ -9,10 +9,10 @@
 	</parent>
 
 	<groupId>com.sk.sample</groupId>
-	<artifactId>mall</artifactId>
+	<artifactId>shop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>mall</name>
+	<name>shop</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -25,12 +25,12 @@
 	</properties>
 
 	<modules>
-		<module>mall-shared</module>
-		<module>mall-account</module>
-		<module>mall-product</module>
-   		<module>mall-order</module>
-   		<module>mall-payment</module>
-		<module>mall-delivery</module>
+		<module>shop-shared</module>
+		<module>shop-account</module>
+		<module>shop-product</module>
+   		<module>shop-order</module>
+   		<module>shop-payment</module>
+		<module>shop-delivery</module>
 	</modules>
 
 	<dependencies>

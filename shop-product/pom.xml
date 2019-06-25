@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<artifactId>mall-product</artifactId>
-	<name>mall-product</name>
+	<artifactId>shop-product</artifactId>
+	<name>shop-product</name>
 	
 	<parent>
 		<groupId>com.sk.sample</groupId>
-		<artifactId>mall</artifactId>
+		<artifactId>shop</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 		
